@@ -25,6 +25,6 @@
         </form>
         <br>
         <label>${msg}</label><br><br>
-        <a href="Age">Arithmetic Calculator</a>
+        <a href="Age">Age Calculator</a>
     </body>
 </html>
